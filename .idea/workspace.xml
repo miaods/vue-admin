@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5807e405-2039-4b6e-9969-1ce732cdcc9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="G:\apache-maven-3.3.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zXFLfG9TCzGGVQWB0nWjL2UBgK" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git/doubao_community_frontend" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.liu.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\ideadaima\doubao\src\main\java\com\liu\model\vo" />
+      <recent name="G:\ideadaima\doubao\src\main\java\com\liu\model\dto" />
+      <recent name="G:\ideadaima\doubao\src\main\java\com\liu\mapper" />
+      <recent name="G:\ideadaima\doubao\src\main\resources\mapper" />
+      <recent name="G:\ideadaima\doubao\src\main\java\com\liu\jwt" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LiuApplication">
+    <configuration name="LiuApplicationTests.SelectList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="doubao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liu" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.LiuApplicationTests" />
+      <option name="METHOD_NAME" value="SelectList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiuApplicationTests.SelectPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="doubao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liu" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.LiuApplicationTests" />
+      <option name="METHOD_NAME" value="SelectPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiuApplicationTests.SelectPost1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="doubao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liu" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.LiuApplicationTests" />
+      <option name="METHOD_NAME" value="SelectPost1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiuApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="doubao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liu" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.LiuApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiuApplicationTests.select" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="doubao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liu" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.LiuApplicationTests" />
+      <option name="METHOD_NAME" value="select" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiuApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="doubao" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liu.LiuApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LiuApplicationTests.SelectList" />
+        <item itemvalue="JUnit.LiuApplicationTests.SelectPost1" />
+        <item itemvalue="JUnit.LiuApplicationTests.SelectPost" />
+        <item itemvalue="JUnit.LiuApplicationTests.select" />
+        <item itemvalue="JUnit.LiuApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5807e405-2039-4b6e-9969-1ce732cdcc9a" name="Default Changelist" comment="" />
+      <created>1634286470725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634286470725</updated>
+      <workItem from="1634286476841" duration="1442000" />
+      <workItem from="1634307432607" duration="4522000" />
+      <workItem from="1634345373591" duration="27178000" />
+      <workItem from="1634477026892" duration="1201000" />
+      <workItem from="1634521381355" duration="21336000" />
+      <workItem from="1634604428171" duration="1040000" />
+      <workItem from="1634698652366" duration="12996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="851" y="275" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1634307527135">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state x="851" y="275" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1473.864@0.0.1473.864" timestamp="1634307527135" />
+    <state x="1074" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1634388915775">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state x="1074" y="184" key="#com.intellij.ide.util.MemberChooser/0.0.1473.864@0.0.1473.864" timestamp="1634388915775" />
+    <state x="464" y="261" key="FileChooserDialogImpl" timestamp="1634708654889">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state x="464" y="261" key="FileChooserDialogImpl/0.0.1473.864@0.0.1473.864" timestamp="1634708654889" />
+    <state width="1430" height="270" key="GridCell.Tab.0.bottom" timestamp="1634738636442">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state width="1430" height="270" key="GridCell.Tab.0.bottom/0.0.1473.864@0.0.1473.864" timestamp="1634738636442" />
+    <state width="1430" height="270" key="GridCell.Tab.0.center" timestamp="1634738636442">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state width="1430" height="270" key="GridCell.Tab.0.center/0.0.1473.864@0.0.1473.864" timestamp="1634738636442" />
+    <state width="1430" height="270" key="GridCell.Tab.0.left" timestamp="1634738636442">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state width="1430" height="270" key="GridCell.Tab.0.left/0.0.1473.864@0.0.1473.864" timestamp="1634738636442" />
+    <state width="1430" height="270" key="GridCell.Tab.0.right" timestamp="1634738636442">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state width="1430" height="270" key="GridCell.Tab.0.right/0.0.1473.864@0.0.1473.864" timestamp="1634738636442" />
+    <state width="1430" height="270" key="GridCell.Tab.1.bottom" timestamp="1634738628271">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state width="1430" height="270" key="GridCell.Tab.1.bottom/0.0.1473.864@0.0.1473.864" timestamp="1634738628271" />
+    <state width="1430" height="270" key="GridCell.Tab.1.center" timestamp="1634738628271">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state width="1430" height="270" key="GridCell.Tab.1.center/0.0.1473.864@0.0.1473.864" timestamp="1634738628271" />
+    <state width="1430" height="270" key="GridCell.Tab.1.left" timestamp="1634738628271">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state width="1430" height="270" key="GridCell.Tab.1.left/0.0.1473.864@0.0.1473.864" timestamp="1634738628271" />
+    <state width="1430" height="270" key="GridCell.Tab.1.right" timestamp="1634738628271">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state width="1430" height="270" key="GridCell.Tab.1.right/0.0.1473.864@0.0.1473.864" timestamp="1634738628271" />
+    <state x="371" y="154" key="SettingsEditor" timestamp="1634729039693">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state x="371" y="154" key="SettingsEditor/0.0.1473.864@0.0.1473.864" timestamp="1634729039693" />
+    <state width="498" height="450" key="SwitcherDM" timestamp="1634718867674">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state width="498" height="450" key="SwitcherDM/0.0.1473.864@0.0.1473.864" timestamp="1634718867674" />
+    <state x="607" y="94" key="new project wizard" timestamp="1634524165547">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state x="607" y="94" key="new project wizard/0.0.1473.864@0.0.1473.864" timestamp="1634524165547" />
+  </component>
+</project>

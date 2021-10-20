@@ -1,0 +1,23 @@
+server:
+  port: 8000
+
+web:
+  domain: http://localhost
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: "root"
+    password: "0424"
+    url: jdbc:mysql://localhost:3306/doubao?useSSL=false&useUnicode=true&characterEncoding=UTF8&serverTimezone=GMT
+    type: com.zaxxer.hikari.HikariDataSource
+
+
+logging:
+  level:
+    root: info
+    com.douyuehan.doubao: debug
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
