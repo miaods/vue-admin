@@ -14,6 +14,7 @@ import com.liu.model.vo.ProfileVO;
 import com.liu.service.IUmsUserService;
 import com.liu.utils.MD5Utils;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -84,6 +85,9 @@ public class IUmsUserServiceImpl extends ServiceImpl<UmsUserMapper, UmsUser>
 
     @Override
     public ProfileVO getUserProfile(String id) {
-        return null;
+        ProfileVO profile = new ProfileVO();
+        UmsUser user = this.baseMapper.selectById(id);
+        BeanUtils.copyProperties(user,profile);
+        return profile;
     }
 }

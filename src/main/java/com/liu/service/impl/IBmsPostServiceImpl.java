@@ -132,6 +132,7 @@ public class IBmsPostServiceImpl extends ServiceImpl<BmsTopicMapper, BmsPost> im
 
         ProfileVO user = iUmsUserService.getUserProfile(topic.getUserId());
         map.put("user", user);
+        System.out.println(user+"哈哈哈哈");
 
         return map;
     }
